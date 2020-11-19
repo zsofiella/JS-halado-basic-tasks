@@ -14,7 +14,6 @@ function getMinElementFromAnArray(arr) {
 }
 
 console.log(getMinElementFromAnArray([1, -10, 2, -100, 3]));
-console.log(getMinElementFromAnArray([1, 2, 3, 4, 5, 6, -1]));
 
 
 /*
@@ -33,4 +32,3 @@ function getMaxElementFromAnArray(arr) {
 }
 
 console.log(getMaxElementFromAnArray([1, -10, 2, -100, 3]));
-console.log(getMaxElementFromAnArray([1, 2, 3, 4, 5, 6, -1]));
